@@ -1,0 +1,13 @@
+{$I-}
+{$V-}
+{$S+}
+{$F+}
+{ $D-}
+{delphi $L-}
+{$R-}
+{delphi $X+}
+
+{$DEFINE BASMINT}         {Use BASM for interrupts under windows}
+
+{.$DEFINE OPRO}             {Remove dot to use with OPRO}
+
